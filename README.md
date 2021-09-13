@@ -20,6 +20,8 @@
   ## Media
   ![Sreenshot](media/screenshot.png?raw=true)
 
+  https://user-images.githubusercontent.com/84648098/133019081-8d6e632a-cc8a-4acb-9d9b-c8f3183d69e8.mp4
+
   ## Objective
   Manage your companies employees using a simple command line application
 
